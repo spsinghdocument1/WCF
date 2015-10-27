@@ -1,0 +1,9 @@
+E:\SAURABH\New folder (2)\ZEROmq\Solution6\WcfService1\bin\WcfService1.dll
+E:\SAURABH\New folder (2)\ZEROmq\Solution6\WcfService1\bin\WcfService1.pdb
+E:\SAURABH\New folder (2)\ZEROmq\Solution6\WcfService1\bin\Interface.dll
+E:\SAURABH\New folder (2)\ZEROmq\Solution6\WcfService1\bin\Servi.dll
+E:\SAURABH\New folder (2)\ZEROmq\Solution6\WcfService1\bin\Interface.pdb
+E:\SAURABH\New folder (2)\ZEROmq\Solution6\WcfService1\bin\Servi.pdb
+E:\SAURABH\New folder (2)\ZEROmq\Solution6\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+E:\SAURABH\New folder (2)\ZEROmq\Solution6\WcfService1\obj\Debug\WcfService1.dll
+E:\SAURABH\New folder (2)\ZEROmq\Solution6\WcfService1\obj\Debug\WcfService1.pdb

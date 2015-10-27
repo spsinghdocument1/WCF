@@ -1,0 +1,5 @@
+E:\SAURABH\New folder (2)\ZEROmq\Solution6\Interface\bin\Debug\Interface.dll
+E:\SAURABH\New folder (2)\ZEROmq\Solution6\Interface\bin\Debug\Interface.pdb
+E:\SAURABH\New folder (2)\ZEROmq\Solution6\Interface\obj\Debug\Interface.dll
+E:\SAURABH\New folder (2)\ZEROmq\Solution6\Interface\obj\Debug\Interface.pdb
+E:\SAURABH\New folder (2)\ZEROmq\Solution6\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+E:\SAURABH\New folder (2)\ZEROmq\Solution6\Servi\bin\Debug\Servi.dll
+E:\SAURABH\New folder (2)\ZEROmq\Solution6\Servi\bin\Debug\Servi.pdb
+E:\SAURABH\New folder (2)\ZEROmq\Solution6\Servi\bin\Debug\Interface.dll
+E:\SAURABH\New folder (2)\ZEROmq\Solution6\Servi\bin\Debug\Interface.pdb
+E:\SAURABH\New folder (2)\ZEROmq\Solution6\Servi\obj\Debug\Servi.csprojResolveAssemblyReference.cache
+E:\SAURABH\New folder (2)\ZEROmq\Solution6\Servi\obj\Debug\Servi.dll
+E:\SAURABH\New folder (2)\ZEROmq\Solution6\Servi\obj\Debug\Servi.pdb
